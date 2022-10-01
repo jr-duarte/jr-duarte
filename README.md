@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://google.com](https://www.linkedin.com/in/jr-duarte/">
+<a href="https://www.linkedin.com/in/jr-duarte/" target="_blank">
   <image src="https://user-images.githubusercontent.com/32375670/193370377-c873814f-a3b1-4cbe-a8c7-e4120693ef62.svg" />
 </a>
 
